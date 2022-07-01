@@ -1,0 +1,131 @@
+<mxfile host="65bd71144e">
+    <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+        <mxGraphModel dx="842" dy="1774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="WIyWlLk6GJQsqaUBKTNV-0"/>
+                <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
+                <mxCell id="DkASAoRrlRsz0CoVsxVr-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;exitX=1.001;exitY=0.618;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DkASAoRrlRsz0CoVsxVr-0" target="DkASAoRrlRsz0CoVsxVr-7" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="610" y="250"/>
+                            <mxPoint x="680" y="250"/>
+                            <mxPoint x="680" y="343"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="0z7Km0U5pkdLjFJuTF95-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Times New Roman;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DkASAoRrlRsz0CoVsxVr-0" target="0z7Km0U5pkdLjFJuTF95-3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="0z7Km0U5pkdLjFJuTF95-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.001;entryY=0.917;entryDx=0;entryDy=0;fontFamily=Times New Roman;exitX=0.001;exitY=0.669;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DkASAoRrlRsz0CoVsxVr-0" target="DkASAoRrlRsz0CoVsxVr-30" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="0z7Km0U5pkdLjFJuTF95-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;exitX=-0.002;exitY=0.882;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DkASAoRrlRsz0CoVsxVr-0" target="DkASAoRrlRsz0CoVsxVr-11" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="0z7Km0U5pkdLjFJuTF95-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.007;entryY=0.655;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;exitX=0;exitY=0.71;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DkASAoRrlRsz0CoVsxVr-0" target="DkASAoRrlRsz0CoVsxVr-33" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="DkASAoRrlRsz0CoVsxVr-0" value="&lt;b&gt;interface.pу&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;&quot;выберите команду: 1 - печать всего справочника, 2 найти конкретный контакт, 3 - добавить новый контакт, или другие символы, чтобы выйти&quot;&lt;/i&gt;&lt;br&gt;&lt;br&gt;вне зависимости от выбора, кроме выхода&lt;br&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;from_phonebook.py-----------------------&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&amp;lt;---&lt;/div&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1 == print_phonebook.py---------------------&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2 == find_contact.py------------------------&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;&quot;выполнить дополнительные операции с контактом или выйти&quot;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: right;&quot;&gt;&amp;lt;---&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;i&gt;&quot;выберете команду: 1 - изменить контакт, 2 - удалить контакт, 3 - экспортировать контакт или выйти&quot;&lt;/i&gt;&lt;br&gt;если find_contact вывел несколько контактов предложить выбрать только один или выйти&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-------------------------3 == new_contact.py&lt;/span&gt;&lt;/div&gt;&lt;br&gt;выход" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="310" y="105" width="300" height="325" as="geometry"/>
+                </mxCell>
+                <mxCell id="DkASAoRrlRsz0CoVsxVr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="DkASAoRrlRsz0CoVsxVr-0" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="main.ру" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="400" y="50" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="DkASAoRrlRsz0CoVsxVr-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;exitX=0.997;exitY=0.528;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DkASAoRrlRsz0CoVsxVr-0" target="DkASAoRrlRsz0CoVsxVr-10" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="660" y="277"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="DkASAoRrlRsz0CoVsxVr-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.998;entryY=0.392;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DkASAoRrlRsz0CoVsxVr-3" target="DkASAoRrlRsz0CoVsxVr-0" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="734" y="232"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="DkASAoRrlRsz0CoVsxVr-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontColor=#EA6B66;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DkASAoRrlRsz0CoVsxVr-3" target="DkASAoRrlRsz0CoVsxVr-14" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="DkASAoRrlRsz0CoVsxVr-3" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;from_phonebook.py&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;считывает&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;файл построчно&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;виде списка (list) списков,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;присваивая нулевому индексу &quot;id&quot; (int) которая является номером строки, в качестве разделителя используется символ &quot;|&quot;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;; font-size: 13px; text-align: start;&quot;&gt;# [[list1], [list2], ... [list3]]&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: rgb(102, 102, 102); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 13px; text-align: start; background-color: rgba(82, 82, 128, 0.09);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;# &lt;font color=&quot;#ea6b66&quot;&gt;id&lt;/font&gt; == 0, [0, '&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Иван', 'Иванов', '891234567879', 'работа']\n&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;# &lt;font color=&quot;#ea6b66&quot;&gt;id&lt;/font&gt; == 1, [1, 'Петр'...&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Times New Roman;fillColor=#f8cecc;strokeColor=#b85450;opacity=30;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="659" y="50" width="300" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="DkASAoRrlRsz0CoVsxVr-7" value="&lt;b&gt;print_phonebook.py&lt;/b&gt;&lt;br&gt;при вызове получает данные из interface&lt;br&gt;&lt;br&gt;практически идентична from_phonebook, так что сделать её стоит тому же, кто сделает from_phonebook&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f8cecc;strokeColor=#b85450;opacity=30;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="701" y="270" width="258" height="145" as="geometry"/>
+                </mxCell>
+                <mxCell id="0z7Km0U5pkdLjFJuTF95-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.003;entryY=0.615;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;exitX=0.341;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DkASAoRrlRsz0CoVsxVr-10" target="DkASAoRrlRsz0CoVsxVr-0" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="DkASAoRrlRsz0CoVsxVr-10" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;find_contact.py&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;при вызове получает данные из interface&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;модуль принимает строку [работа]&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;и, вне зависимости от регистра,&amp;nbsp;выводит все переменные с тем же индексом &quot;&lt;font color=&quot;#ea6b66&quot;&gt;id&lt;/font&gt;&quot;.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;нужно предусмотреть, что искомая строка совпадет с несколькими&amp;nbsp;контактами&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;если искомая строка ни с чем не совпала - предложить, ввести другую или выйти&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;opacity=30;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="470" y="450" width="489" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="0z7Km0U5pkdLjFJuTF95-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DkASAoRrlRsz0CoVsxVr-11" target="DkASAoRrlRsz0CoVsxVr-14" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="10" y="525"/>
+                            <mxPoint x="10" y="-37"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="DkASAoRrlRsz0CoVsxVr-11" value="&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;b&gt;new_contact.py&lt;/b&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;поочередно вводит строки&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;firstname+&quot;|&quot; lastname+&quot;|&quot; number+&quot;|&quot; commentary, затем дописывает их в файл&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#6d8764;strokeColor=#3A5431;opacity=60;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="200" y="480" width="170" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="DkASAoRrlRsz0CoVsxVr-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontColor=#EA6B66;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DkASAoRrlRsz0CoVsxVr-14" target="DkASAoRrlRsz0CoVsxVr-3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="DkASAoRrlRsz0CoVsxVr-14" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;phonebook.csv&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Иван|Иванов|891234567879|работа&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Петр|Петров|&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;891234567871|сосед с первого этажа&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Илья|Ильин|&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;891234567871|&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;# данные:&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;# firstname, lastname, number, commentary&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="659" y="-100" width="300" height="125" as="geometry"/>
+                </mxCell>
+                <mxCell id="0z7Km0U5pkdLjFJuTF95-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DkASAoRrlRsz0CoVsxVr-30" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="660" y="12" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="170" y="10"/>
+                            <mxPoint x="650" y="10"/>
+                            <mxPoint x="650" y="12"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="DkASAoRrlRsz0CoVsxVr-30" value="&lt;span style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;change_contact.py &lt;/b&gt;(дополнительный модуль)&lt;br&gt;&lt;br&gt;&lt;/span&gt;перезаписывает справочник как в new_contact, за исключением выбранного контакта, за исключением выбранного контакта где,&lt;span style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;поочередно вводятся строки&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;firstname lastname number commentary&lt;/span&gt;&lt;span style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#e3c800;strokeColor=#B09500;opacity=40;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="80" y="110" width="190" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="0z7Km0U5pkdLjFJuTF95-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DkASAoRrlRsz0CoVsxVr-33" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="659" y="-10" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="60" y="-10"/>
+                            <mxPoint x="659" y="-10"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="DkASAoRrlRsz0CoVsxVr-33" value="&lt;b&gt;del_contact.py &lt;/b&gt;(дополнительный модуль)&lt;br&gt;&lt;br&gt;перезаписывает справочник как в new_contact, за исключением выбранного файла" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#e3c800;strokeColor=#B09500;opacity=40;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="30" y="290" width="240" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="DkASAoRrlRsz0CoVsxVr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;exitX=0.998;exitY=0.349;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DkASAoRrlRsz0CoVsxVr-0" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="640" y="260" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="640" y="218"/>
+                            <mxPoint x="640" y="140"/>
+                            <mxPoint x="650" y="140"/>
+                        </Array>
+                        <mxPoint x="659" y="139" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="0z7Km0U5pkdLjFJuTF95-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0z7Km0U5pkdLjFJuTF95-3" target="0z7Km0U5pkdLjFJuTF95-15" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="0z7Km0U5pkdLjFJuTF95-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;export_contact.py&lt;/b&gt; (дополнительный модуль)&lt;br&gt;&lt;br&gt;дописывает контакт в другой файл&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;opacity=40;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="30" y="370" width="240" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="0z7Km0U5pkdLjFJuTF95-15" value="&lt;i&gt;&lt;b&gt;другой файл&lt;/b&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="115" y="450" width="70" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
